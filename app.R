@@ -1,19 +1,16 @@
 #
 # Strength of Evidence
 # Reproducible R Script for Binder
-# Paper: Why Most Results of Socio-Technical Security User Studies Are False
+# Paper: Why Most Results of Socio-Technical Security User Studies Are False -- And what to do about it
+#        In proceedings of the 12th Workshop on Socio-technical Aspects in Security (STAST), 2022
 #
 # Note: The paper was directly compiled from the R sourcecode and raw data using knitR.
 #       This environment uses the same functions, but constitutes a separate code-base w/o knitR integration.
 #
 
 #
-# Copyright (c) 2022 Anonymized Author of this work.
+# Copyright (c) 2022 Thomas Groß.
 #
-# This software is made as available  as is for the purpose of anonymous peer-review.
-# The software can be be executed and evaluated by peer-reviewers.
-# Once the paper and software is published, the overall work will be made available under
-# an appropriate open source license.
 # 
 # THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 # IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,

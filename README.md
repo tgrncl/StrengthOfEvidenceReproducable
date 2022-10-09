@@ -21,7 +21,7 @@ It spawns a Shiny server and client application as a User Interface.
 ### Open RStudio
 
 The Binder version of the software will load from
-   https://mybinder.org/v2/gh/tgrncl/StrengthOfEvidenceReproducable.git/HEAD?urlpath=rstudio
+   https://mybinder.org/v2/gh/tgrncl/StrengthOfEvidenceReproducable.git/master?urlpath=rstudio
    
 ### Open the Shiny app
 
@@ -92,6 +92,6 @@ SOFTWARE.
 
 ## References
 
-[1] T. Groß. Why Most Results of Socio-Technical Security User Studies Are False -- And what to do about it. In proceedings of the 12th Workshop on Socio-Technical Aspects in Security (STAST), 2022.
-[2] K. Coopamootoo and T. Groß. Systematic evaluation for evidence-based methods in cyber security. Technical Report TR-1528, Newcastle University, 2017
-[3] T. Groß. Fidelity of Statistical Reporting in 10 Years of Cyber Security User Studies. In proceedings of the 9th International Workshop on Socio-Technical Aspects in Security (STAST), 2019.
+ - [1] T. Groß. Why Most Results of Socio-Technical Security User Studies Are False -- And what to do about it. In proceedings of the 12th Workshop on Socio-Technical Aspects in Security (STAST), 2022.
+ - [2] K. Coopamootoo and T. Groß. Systematic evaluation for evidence-based methods in cyber security. Technical Report TR-1528, Newcastle University, 2017
+ - [3] T. Groß. Fidelity of Statistical Reporting in 10 Years of Cyber Security User Studies. In proceedings of the 9th International Workshop on Socio-Technical Aspects in Security (STAST), 2019.
