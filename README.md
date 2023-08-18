@@ -18,14 +18,14 @@ It spawns a Shiny server and client application as a User Interface.
 
 ## How to use
 
-### Open RStudio
+### Load the Shiny App
+
+#### A) Open RStudio Binder
 
 The Binder version of the software will load from
    https://mybinder.org/v2/gh/tgrncl/StrengthOfEvidenceReproducable.git/master?urlpath=rstudio
-   
-### Open the Shiny app
 
-Load and execute **app.R**
+Load and execute the Shiny app **app.R**
 
 Note that the app will pre-compute a simulation of power and strength-of-evidence
 values to improve responsiveness of the Shiny app. This will take a few minutes 
@@ -33,6 +33,15 @@ during the start-up of the Shiny app.
 
 The Shiny app will open in a new browser window. Ensure that you permit the
 pop-up window.
+
+#### B) Load from your Shiny Installation
+
+Open RStudio.
+
+Load the Shiny library: **library(shiny)**
+
+Execute the GitHub repository: **runGitHub("https://github.com/tgrncl/StrengthOfEvidenceReproducable")**
+
 
 ### Interact with the visualisation
 
@@ -89,6 +98,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
+## Acknowledgment
+This work was developed as part of the ERC Starting Grant CASCAde (GA no 716980).
 
 ## References
 
